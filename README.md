@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indhar01&label=Profile%20views&color=0e75b6&style=flat" alt="indhar01" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://camo.githubusercontent.com/e47329ee262d32e765c17747986f99c12b2b288c6f14401b030c8884d1423a4b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f72796f2d6d612f6769746875622d70726f66696c652d74726f706879" data-canonical-src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy" style="max-width: 100%;">
+
 
 - 🔭 I’m currently working on **ML project**
 
