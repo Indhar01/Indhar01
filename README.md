@@ -6,7 +6,12 @@
 <h3 align="center">A passionate frontend & backend developer from India.Here is What I'm Working on!👨‍💻</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indhar01&label=Profile%20views&color=0e75b6&style=plastic" alt="indhar01" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=indhar01&label=Profile%20views&color=0e75b6&style=plastic" alt="indhar01" /> 
+  <img alt="indhar01 GitHub followers" src="https://img.shields.io/github/followers/Indhar01?style=plastic">
+  <img alt="indhar01 GitHub User's stars" src="https://img.shields.io/github/stars/indhar01?color=1&style=plastic">
+
+</p>
 
 
 
