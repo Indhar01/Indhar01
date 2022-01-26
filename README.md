@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Indirakumar</h1>
 <h3 align="center">A passionate frontend & backend developer from India.Here is What I'm Working on!👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indhar01&label=Profile%20views&color=0e75b6&style=flat" alt="indhar01" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=indhar01&label=Profile%20views&color=0e75b6&style=plastic" alt="indhar01" /> </p>
 
 
 
@@ -28,7 +28,7 @@
 <p align="left">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=indhar01&show_icons=true&locale=en" alt="indhar01" />
 </p><br>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indhar01&show_icons=true&locale=en&layout=compact" alt="indhar01" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
