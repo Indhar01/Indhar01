@@ -19,8 +19,6 @@
 
 - 🌱 I’m currently learning **ML,DSA and Data Analysis**
 
-- 👨‍💻 All of my projects are available at [Here](Here)
-
 - 💬 Ask me about **Back-end👨‍💻 & Front-end🎨Development,Bug solution🐞and Innovative ideas💡**
 
 
