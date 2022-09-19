@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working on **Decentralised app project**
+- 🔭 I’m currently working on **AI project**
 
 - 🌱 I’m currently learning **ML,DSA and Data Analysis**
 
