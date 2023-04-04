@@ -24,7 +24,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<h4>Python,Flask,Django,TensorFlow,Java,React</h4>
+<h4>Python,Flask,Django,TensorFlow,Java,React,Numpy,Pandas</h4>
 
 
 <h3 align="left">Stats:</h3><br>
