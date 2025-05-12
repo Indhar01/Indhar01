@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi! I’m Indirakumar S, an AI Professional with 2+ years at IBM specializing in building NLP solutions, RAG systems, and LLM-powered automation.  
 🔭 Currently working as a Data Scientist - AI at IBM, delivering scalable AI PoCs using LangChain, OpenAI, FastAPI, and Kubernetes.  
-🌱 Actively learning deeper concepts in Gen AI, DevOps, and Advanced ML.  
+🌱 Actively learning deeper concepts in Gen AI and ML.  
 💬 Ask me about AI/ML, LLM integrations, RAG pipelines, or full-stack development with Python & FastAPI.  
 
 ## 🌐 Socials:
