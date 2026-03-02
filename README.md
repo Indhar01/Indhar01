@@ -26,7 +26,7 @@
 
 🚀 **AI Professional** with 2+ years at IBM, specializing in building cutting-edge NLP solutions, RAG systems, and LLM-powered automation  
 
-🔭 **Currently:** Data Scientist - AI at IBM, delivering scalable AI PoCs using LangChain, OpenAI, FastAPI, and Kubernetes  
+🔭 **Currently:** BackendEngineer - GenAI/Cloud at IBM, delivering scalable AI solutions using LangChain, OpenAI, Claude, FastAPI, and Kubernetes  
 
 🌱 **Learning:** Deep diving into Gen AI architectures, prompt engineering, and advanced ML techniques  
 
@@ -34,7 +34,7 @@
 
 💬 **Ask me about:** AI/ML workflows, LLM fine-tuning, RAG pipelines, prompt engineering, or full-stack development with Python  
 
-🎯 **2024 Goals:** Contributing to Open Source AI projects and building production-ready LLM applications  
+🎯 **2026 Goals:** Contributing to Open Source AI projects and building production-ready LLM applications  
 
 ⚡ **Fun fact:** I love automating repetitive tasks and turning coffee into code!
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 What I'm Currently Working On
+<!-- ## 🚀 What I'm Currently Working On
 
 ```yaml
 current_focus:
@@ -57,9 +57,9 @@ latest_projects:
   - AI-powered document processing pipeline
   - Conversational AI chatbot with memory
   - Automated ML pipeline orchestration
-```
+``` -->
 
----
+<!-- --- -->
 
 ## 🛠️ Tech Stack & Skills
 
@@ -93,10 +93,16 @@ latest_projects:
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
 ```diff
-+ IBM | Data Scientist - AI (2022 - Present)
++ IBM | BackendEngineer - GenAI/Cloud (2023 - Present)
+  Building scalable AI solutions with LangChain, OpenAI, Claude, and Kubernetes
+```
+
+<!-- 
+```diff
++ Detailed achievements to be added:
   • Developed 10+ AI PoCs using LangChain, OpenAI, and RAG architecture
   • Built production-ready FastAPI services deployed on Kubernetes
   • Automated document processing using NLP, saving 40% manual effort
@@ -106,32 +112,10 @@ latest_projects:
   • Document Q&A systems using vector databases
   • LLM-powered automation workflows
 ```
+-->
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Indhar01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Indhar01&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Indhar01&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
-<!-- ## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=Indhar01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-</div> -->
-
----
 
 ## 🔝 Top Contributed Repositories
 
@@ -143,29 +127,23 @@ latest_projects:
 
 [![Indirakumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Indhar01&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-<!-- ## 🐍 Contribution Snake Animation -->
-<!-- Requires GitHub Actions setup. Uncomment after setting up the snake workflow -->
 <!-- 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Indhar01/Indhar01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
--->
-
 ---
-
-## 💡 Featured Projects
-
-> 💡 **Tip:** Pin your best repositories to showcase them here!  
-> Go to your [GitHub profile](https://github.com/Indhar01) → **Customize your pins** → Select your top projects
-
-<!-- Example: Uncomment and update with your actual repository names
+## 🏆 GitHub Trophies
 <div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Indhar01&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/Indhar01/your-repo-name)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Indhar01&repo=another-repo&theme=tokyonight&hide_border=true)](https://github.com/Indhar01/another-repo)
-
+![](https://github-profile-trophy.vercel.app/?username=Indhar01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+</div>
+---
+## 🐍 Contribution Snake Animation
+Requires GitHub Actions setup
+<div align="center">
+<img src="https://raw.githubusercontent.com/Indhar01/Indhar01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+---
+## 💡 Featured Projects
+Pin your best repositories: GitHub profile → Customize pins
+<div align="center">
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Indhar01&repo=repo-name&theme=tokyonight&hide_border=true)](https://github.com/Indhar01/repo-name)
 </div>
 -->
 
